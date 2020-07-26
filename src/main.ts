@@ -17,17 +17,13 @@ const config: Phaser.Types.Core.GameConfig = {
 };
 
 export default class Main extends Phaser.Scene {
-    private square: Phaser.GameObjects.Rectangle & {
-        body: Phaser.Physics.Arcade.Body
-    };
-
     constructor() {
         super('config')
     }
 
     public create() {
-        this.square = this.add.rectangle(400, 400, 100, 100, 0xFFFFFF) as any;
-        this.physics.add.existing(this.square)
+        let square = this.add.rectangle(400, 400, 100, 100, 0xFFFFFF) as any;
+        this.physics.add.existing(square)
     }
 
     public update() {
