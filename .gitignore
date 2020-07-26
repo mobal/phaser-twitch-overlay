@@ -139,3 +139,6 @@ dist
 .history
 
 # End of https://www.toptal.com/developers/gitignore/api/node,visualstudiocode,linux
+
+dist/
+build/
