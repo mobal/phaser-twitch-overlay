@@ -1,20 +1,30 @@
+const HtmlWebpackPlugin = require('html-webpack-plugin');
 const path = require('path');
+const webpack = require('webpack');
 
 module.exports = {
-  entry: './build/main.js',
-  module: {
-    rules: [
-      {
-        exclude: /node_modules/
-      }
+    devServer: {
+        compress: true,
+        contentBase: path.join(__dirname, 'dist'),
+        port: 8080
+    },
+    entry: './build/main.js',
+    mode: 'development',
+    module: {
+      rules: [
+        {
+          exclude: /node_modules/
+        }
+      ]
+    },
+    output: {
+        filename: 'app.js',
+        path: path.resolve(__dirname, 'dist')
+      },
+      resolve: {
+      extensions: [ '.ts', '.js' ]
+    },
+    plugins: [
+      new HtmlWebpackPlugin()
     ]
-  },
-  resolve: {
-    extensions: [ '.ts', '.js' ]
-  },
-  output: {
-    filename: 'app.js',
-    path: path.resolve(__dirname, 'dist')
-  },
-  mode: 'development'
 };
