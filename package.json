@@ -4,6 +4,8 @@
   "description": "Twitch overlay made with Phaser",
   "main": "src/main.ts",
   "scripts": {
+    "build": "tsc && webpack",
+    "start": "webpack-dev-server --color --hot",
     "test": "mocha --reporter list"
   },
   "repository": {
@@ -19,6 +21,7 @@
   "dependencies": {
     "@types/node": "^14.0.26",
     "chai": "^4.2.0",
+    "html-webpack-plugin": "^4.3.0",
     "mocha": "^8.0.1",
     "phaser": "^3.24.1",
     "tslint": "^6.1.2",
@@ -28,6 +31,7 @@
   },
   "devDependencies": {
     "@types/chai": "^4.2.12",
-    "@types/mocha": "^8.0.0"
+    "@types/mocha": "^8.0.0",
+    "webpack-dev-server": "^3.11.0"
   }
 }
