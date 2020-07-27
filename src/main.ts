@@ -1,32 +1,37 @@
 import 'phaser';
 
+import { GameScene } from './scenes/GameScene';
+
 const config: Phaser.Types.Core.GameConfig = {
-    backgroundColor: '#000000',
+    backgroundColor: '#ffffff',
     physics: {
         arcade: {
             debug: true
         },
         default: 'arcade'
     },
-    scale: {
-        height: 1080,
-        width: 1920
+    render: {
+        antialias: true,
+        pixelArt: false
     },
+    scale: {
+        height: window.innerHeight,
+        width: window.innerWidth
+    },
+    scene: [
+        GameScene
+    ],
     title: 'Twitch Overlay',
     type: Phaser.AUTO
 };
 
-export default class Main extends Phaser.Scene {
+export default class Main extends Phaser.Game {
     constructor() {
-        super('config')
-    }
-
-    public create() {
-        let square = this.add.rectangle(400, 400, 100, 100, 0xFFFFFF) as any;
-        this.physics.add.existing(square)
-    }
-
-    public update() {
-        //
+        super(config)
     }
 }
+
+window.addEventListener('load', () => {
+    console.info('TwitchOverlay', config);
+    new Main();
+});
