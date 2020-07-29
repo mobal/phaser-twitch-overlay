@@ -1,3 +1,4 @@
+import 'phaser';
 
 export class GameScene extends Phaser.Scene {
     constructor() {
@@ -7,11 +8,11 @@ export class GameScene extends Phaser.Scene {
     }
 
     create() {
-        //
+        this.add.sprite(200, 200, 'bandit');
     }
 
     preload() {
-        //
+        this.load.image('bandit', '/assets/sprites/__Bandit01_Idle_000.png');
     }
 
     update() {
