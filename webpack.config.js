@@ -1,4 +1,6 @@
+const CopyWebpackPlugin =require('copy-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+
 const path = require('path');
 const webpack = require('webpack');
 
@@ -13,7 +15,7 @@ module.exports = {
     module: {
       rules: [
         {
-          exclude: /node_modules/
+          exclude: '/node_modules/'
         }
       ]
     },
@@ -25,6 +27,11 @@ module.exports = {
       extensions: [ '.ts', '.js' ]
     },
     plugins: [
-      new HtmlWebpackPlugin()
+      new HtmlWebpackPlugin(),
+      new CopyWebpackPlugin({
+        patterns: [
+            { from: 'assets', to: 'assets' }
+          ]
+        })
     ]
 };
