@@ -5,6 +5,7 @@
   "main": "src/main.ts",
   "scripts": {
     "build": "tsc && webpack",
+    "lint": "tslint -p .",
     "start": "webpack-dev-server --color --hot",
     "test": "mocha --reporter list"
   },
@@ -32,6 +33,7 @@
   "devDependencies": {
     "@types/chai": "^4.2.12",
     "@types/mocha": "^8.0.0",
+    "copy-webpack-plugin": "^6.0.3",
     "webpack-dev-server": "^3.11.0"
   }
 }
