@@ -2,15 +2,14 @@ import 'phaser';
 import { Player } from '../model/Player';
 
 export class GameScene extends Phaser.Scene {
-    max: number = 20
-    ;
+    max: number = 50;
     
     debug!: Phaser.GameObjects.Text
     warrior!: Phaser.GameObjects.Sprite;
     wolf!: Phaser.GameObjects.Sprite;
 
     players: Array<Player> = [];
-    sprites: Array<string> = [
+    skins: Array<string> = [
         'Bandit01',
         'Bandit02',
         'BigGuy',
@@ -26,19 +25,20 @@ export class GameScene extends Phaser.Scene {
         });
     }
 
-    private addPlayer(sprite: string, x: number, y: number) {
-        this.players.push(new Player(sprite, this.add.sprite(x + 32, y, 'atlas', `Idle/__${sprite}_Idle_000.png`), this.getRandom(8, 64)));
+    private addPlayer(skin: string, x: number, y: number) {
+        const sprite = this.add.sprite(x + 32, y, 'atlas', `Idle/__${skin}_Idle_000.png`);
+        this.players.push(new Player(`Player`, skin, sprite, this.getRandom(32, 128)));
     }
 
-    private createAnimation(sprite: string) {
+    private createAnimation(skin: string) {
         this.anims.create({
-            key: `${sprite}-Run`,
+            key: `${skin}-Run`,
             frames: this.anims.generateFrameNames(
                 'atlas', {
                     start: 1,
                     end: 11,
                     zeroPad: 3,
-                    prefix: `Run/__${sprite}_Run_`,
+                    prefix: `Run/__${skin}_Run_`,
                     suffix: '.png'
                 }
             ),
@@ -55,14 +55,14 @@ export class GameScene extends Phaser.Scene {
         const { width, height } = this.sys.game.canvas;
         
         this.debug = this.add.text(0, 0, '0', { color: '#000000' });
-        this.sprites.forEach(sprite => this.createAnimation(sprite));
+        this.skins.forEach(skin => this.createAnimation(skin));
 
         for (let i = 0; i < this.max; i++) {
-            this.addPlayer(this.sprites[Math.floor(Math.random() * this.sprites.length)], Math.floor(Math.random() * width) + 1, height / 2);
+            this.addPlayer(this.skins[Math.floor(Math.random() * this.skins.length)], Math.floor(Math.random() * width) + 1, height / 2);
         }
         
         this.players.forEach(player => {
-            player.sprite.setScale(0.2, 0.2);
+            player.sprite.setScale(0.1, 0.1);
         });
 
         this.players.forEach(player => {
@@ -92,6 +92,6 @@ export class GameScene extends Phaser.Scene {
             }
         });
 
-        this.debug.setText(`fps: ${Math.floor(this.game.loop.actualFps)}, delta: ${Math.floor(delta)} ms`);
+        this.debug.setText(`fps: ${Math.floor(this.game.loop.actualFps).toFixed(1)} (${Math.floor(delta).toFixed(1)})`);
     }
 }
