@@ -3,6 +3,10 @@ import { GameScene } from './scenes/GameScene';
 
 const config: Phaser.Types.Core.GameConfig = {
     backgroundColor: '#ffffff',
+    fps: {
+        forceSetTimeOut: true,
+        target: 60
+    },
     physics: {
         arcade: {
             debug: true

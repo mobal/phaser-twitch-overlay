@@ -1,5 +1,6 @@
 const CopyWebpackPlugin =require('copy-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const HtmlWebpackTagsPlugin = require('html-webpack-tags-plugin');
 
 const path = require('path');
 const webpack = require('webpack');
@@ -27,7 +28,24 @@ module.exports = {
       extensions: [ '.ts', '.js' ]
     },
     plugins: [
-      new HtmlWebpackPlugin(),
+      new HtmlWebpackTagsPlugin({
+        append: true,
+        tags: [
+          'app.js',
+          'assets/css/main.css'
+        ]
+      }),
+      new HtmlWebpackPlugin({
+        chunks: [
+
+        ],
+        hash: true,
+        minify: {
+          collapseWhitespace: true,
+          removeComments: true
+        },
+        title: "Phaser Twitch Overlay"
+      }),
       new CopyWebpackPlugin({
         patterns: [
             { from: 'assets', to: 'assets' }

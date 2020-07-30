@@ -1,0 +1,7367 @@
+{
+	"textures": [
+		{
+			"image": "Warrior-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Dead/__BigGuy_Dead_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 287,
+						"w": 736,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 421
+					}
+				},
+				{
+					"filename": "Dead/__BigGuy_Dead_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 395,
+						"w": 709,
+						"h": 332
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 709,
+						"h": 332
+					}
+				},
+				{
+					"filename": "Attack/__BigGuy_Attack_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 252,
+						"y": 123,
+						"w": 597,
+						"h": 564
+					},
+					"frame": {
+						"x": 1450,
+						"y": 1,
+						"w": 597,
+						"h": 564
+					}
+				},
+				{
+					"filename": "Dead/__BigGuy_Dead_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 395,
+						"w": 709,
+						"h": 332
+					},
+					"frame": {
+						"x": 739,
+						"y": 335,
+						"w": 709,
+						"h": 332
+					}
+				},
+				{
+					"filename": "Idle/__BigGuy_Idle_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 260,
+						"y": 128,
+						"w": 577,
+						"h": 559
+					},
+					"frame": {
+						"x": 1450,
+						"y": 567,
+						"w": 577,
+						"h": 559
+					}
+				},
+				{
+					"filename": "Attack/__BigGuy_Attack_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 237,
+						"y": 117,
+						"w": 611,
+						"h": 570
+					},
+					"frame": {
+						"x": 1,
+						"y": 424,
+						"w": 611,
+						"h": 570
+					}
+				},
+				{
+					"filename": "Attack/__BigGuy_Attack_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 245,
+						"y": 120,
+						"w": 608,
+						"h": 567
+					},
+					"frame": {
+						"x": 614,
+						"y": 669,
+						"w": 608,
+						"h": 567
+					}
+				},
+				{
+					"filename": "Attack/__BigGuy_Attack_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 242,
+						"y": 123,
+						"w": 605,
+						"h": 564
+					},
+					"frame": {
+						"x": 1,
+						"y": 996,
+						"w": 605,
+						"h": 564
+					}
+				},
+				{
+					"filename": "Attack02/__Warrior_AttackALT_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 245,
+						"y": 201,
+						"w": 510,
+						"h": 485
+					},
+					"frame": {
+						"x": 1,
+						"y": 1562,
+						"w": 510,
+						"h": 485
+					}
+				},
+				{
+					"filename": "Run/__Warrior_Run_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 253,
+						"y": 197,
+						"w": 373,
+						"h": 485
+					},
+					"frame": {
+						"x": 513,
+						"y": 1562,
+						"w": 373,
+						"h": 485
+					}
+				},
+				{
+					"filename": "Dead/__Bandit02_Dead_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 427,
+						"w": 486,
+						"h": 302
+					},
+					"frame": {
+						"x": 608,
+						"y": 1238,
+						"w": 486,
+						"h": 302
+					}
+				},
+				{
+					"filename": "Dead/__Gorilla_Dead_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 169,
+						"w": 550,
+						"h": 495
+					},
+					"frame": {
+						"x": 888,
+						"y": 1542,
+						"w": 550,
+						"h": 495
+					}
+				},
+				{
+					"filename": "Dead/__Bandit02_Dead_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 134,
+						"y": 251,
+						"w": 429,
+						"h": 412
+					},
+					"frame": {
+						"x": 1224,
+						"y": 1128,
+						"w": 429,
+						"h": 412
+					}
+				},
+				{
+					"filename": "Attack/__Gorilla_Attack_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 125,
+						"w": 392,
+						"h": 562
+					},
+					"frame": {
+						"x": 1655,
+						"y": 1128,
+						"w": 392,
+						"h": 562
+					}
+				},
+				{
+					"filename": "Dead/__Gorilla_Dead_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 384,
+						"w": 569,
+						"h": 351
+					},
+					"frame": {
+						"x": 1440,
+						"y": 1692,
+						"w": 569,
+						"h": 351
+					}
+				}
+			]
+		},
+		{
+			"image": "Warrior-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Dead/__BigGuy_Dead_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 0,
+						"w": 560,
+						"h": 660
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 560,
+						"h": 660
+					}
+				},
+				{
+					"filename": "Attack01/__Warrior_Attack01_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 252,
+						"y": 199,
+						"w": 351,
+						"h": 597
+					},
+					"frame": {
+						"x": 1,
+						"y": 663,
+						"w": 351,
+						"h": 597
+					}
+				},
+				{
+					"filename": "Attack01/__Warrior_Attack01_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 245,
+						"y": 201,
+						"w": 376,
+						"h": 592
+					},
+					"frame": {
+						"x": 1,
+						"y": 1262,
+						"w": 376,
+						"h": 592
+					}
+				},
+				{
+					"filename": "Idle/__Crow_Idle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 325,
+						"y": 374,
+						"w": 246,
+						"h": 186
+					},
+					"frame": {
+						"x": 1,
+						"y": 1856,
+						"w": 246,
+						"h": 186
+					}
+				},
+				{
+					"filename": "Attack/__Crow_Attack_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 343,
+						"y": 373,
+						"w": 240,
+						"h": 185
+					},
+					"frame": {
+						"x": 249,
+						"y": 1856,
+						"w": 240,
+						"h": 185
+					}
+				},
+				{
+					"filename": "Dead/__BigGuy_Dead_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 93,
+						"w": 555,
+						"h": 589
+					},
+					"frame": {
+						"x": 354,
+						"y": 663,
+						"w": 555,
+						"h": 589
+					}
+				},
+				{
+					"filename": "Dead/__Gorilla_Dead_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 249,
+						"y": 97,
+						"w": 426,
+						"h": 585
+					},
+					"frame": {
+						"x": 379,
+						"y": 1254,
+						"w": 426,
+						"h": 585
+					}
+				},
+				{
+					"filename": "Dead/__Crow_Dead_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 327,
+						"y": 427,
+						"w": 245,
+						"h": 206
+					},
+					"frame": {
+						"x": 491,
+						"y": 1841,
+						"w": 245,
+						"h": 206
+					}
+				},
+				{
+					"filename": "Idle/__Crow_Idle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 325,
+						"y": 366,
+						"w": 246,
+						"h": 199
+					},
+					"frame": {
+						"x": 738,
+						"y": 1841,
+						"w": 246,
+						"h": 199
+					}
+				},
+				{
+					"filename": "Dead/__Gorilla_Dead_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 170,
+						"y": 105,
+						"w": 499,
+						"h": 578
+					},
+					"frame": {
+						"x": 807,
+						"y": 1254,
+						"w": 499,
+						"h": 578
+					}
+				},
+				{
+					"filename": "Idle/__Crow_Idle_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 324,
+						"y": 405,
+						"w": 246,
+						"h": 212
+					},
+					"frame": {
+						"x": 986,
+						"y": 1834,
+						"w": 246,
+						"h": 212
+					}
+				},
+				{
+					"filename": "Attack/__Crow_Attack_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 317,
+						"y": 411,
+						"w": 246,
+						"h": 210
+					},
+					"frame": {
+						"x": 1234,
+						"y": 1834,
+						"w": 246,
+						"h": 210
+					}
+				},
+				{
+					"filename": "Dead/__BigGuy_Dead_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 129,
+						"w": 564,
+						"h": 552
+					},
+					"frame": {
+						"x": 1482,
+						"y": 1,
+						"w": 564,
+						"h": 552
+					}
+				},
+				{
+					"filename": "Dead/__Gorilla_Dead_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 384,
+						"w": 569,
+						"h": 351
+					},
+					"frame": {
+						"x": 911,
+						"y": 1,
+						"w": 569,
+						"h": 351
+					}
+				},
+				{
+					"filename": "Dead/__Bandit02_Dead_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 224,
+						"y": 201,
+						"w": 346,
+						"h": 466
+					},
+					"frame": {
+						"x": 563,
+						"y": 1,
+						"w": 346,
+						"h": 466
+					}
+				},
+				{
+					"filename": "Dead/__Gorilla_Dead_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 249,
+						"w": 568,
+						"h": 451
+					},
+					"frame": {
+						"x": 911,
+						"y": 354,
+						"w": 568,
+						"h": 451
+					}
+				},
+				{
+					"filename": "Run/__BigGuy_Run_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 213,
+						"y": 114,
+						"w": 560,
+						"h": 568
+					},
+					"frame": {
+						"x": 1482,
+						"y": 555,
+						"w": 560,
+						"h": 568
+					}
+				},
+				{
+					"filename": "Dead/__Crow_Dead_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 309,
+						"y": 556,
+						"w": 266,
+						"h": 126
+					},
+					"frame": {
+						"x": 911,
+						"y": 1125,
+						"w": 266,
+						"h": 126
+					}
+				},
+				{
+					"filename": "Dead/__Crow_Dead_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 309,
+						"y": 556,
+						"w": 266,
+						"h": 126
+					},
+					"frame": {
+						"x": 1179,
+						"y": 1125,
+						"w": 266,
+						"h": 126
+					}
+				},
+				{
+					"filename": "Dead/__Gorilla_Dead_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 109,
+						"w": 398,
+						"h": 572
+					},
+					"frame": {
+						"x": 1308,
+						"y": 1253,
+						"w": 398,
+						"h": 572
+					}
+				},
+				{
+					"filename": "Dead/__Wolf_Dead_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 249,
+						"y": 465,
+						"w": 403,
+						"h": 220
+					},
+					"frame": {
+						"x": 1482,
+						"y": 1827,
+						"w": 403,
+						"h": 220
+					}
+				},
+				{
+					"filename": "Hurt/__Bandit02_Hurt_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 230,
+						"y": 217,
+						"w": 339,
+						"h": 463
+					},
+					"frame": {
+						"x": 1708,
+						"y": 1125,
+						"w": 339,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Fly/__Crow_Fly_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 325,
+						"y": 372,
+						"w": 246,
+						"h": 184
+					},
+					"frame": {
+						"x": 563,
+						"y": 469,
+						"w": 246,
+						"h": 184
+					}
+				},
+				{
+					"filename": "Attack/__Crow_Attack_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 311,
+						"y": 407,
+						"w": 243,
+						"h": 222
+					},
+					"frame": {
+						"x": 1708,
+						"y": 1590,
+						"w": 243,
+						"h": 222
+					}
+				},
+				{
+					"filename": "Dead/__Bandit02_Dead_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 427,
+						"w": 486,
+						"h": 302
+					},
+					"frame": {
+						"x": 911,
+						"y": 807,
+						"w": 486,
+						"h": 302
+					}
+				}
+			]
+		},
+		{
+			"image": "Warrior-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Idle/__BigGuy_Idle_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 260,
+						"y": 128,
+						"w": 576,
+						"h": 559
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 576,
+						"h": 559
+					}
+				},
+				{
+					"filename": "Idle/__BigGuy_Idle_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 260,
+						"y": 128,
+						"w": 576,
+						"h": 559
+					},
+					"frame": {
+						"x": 579,
+						"y": 1,
+						"w": 576,
+						"h": 559
+					}
+				},
+				{
+					"filename": "Idle/__BigGuy_Idle_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 128,
+						"w": 575,
+						"h": 559
+					},
+					"frame": {
+						"x": 1157,
+						"y": 1,
+						"w": 575,
+						"h": 559
+					}
+				},
+				{
+					"filename": "Attack/__Bandit01_Attack_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 287,
+						"y": 217,
+						"w": 313,
+						"h": 463
+					},
+					"frame": {
+						"x": 1734,
+						"y": 1,
+						"w": 313,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Attack/__Bandit02_Attack_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 287,
+						"y": 217,
+						"w": 313,
+						"h": 463
+					},
+					"frame": {
+						"x": 1734,
+						"y": 466,
+						"w": 313,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Run/__BigGuy_Run_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 116,
+						"w": 571,
+						"h": 567
+					},
+					"frame": {
+						"x": 1,
+						"y": 931,
+						"w": 571,
+						"h": 567
+					}
+				},
+				{
+					"filename": "Dead/__Warrior_Dead_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 296,
+						"w": 487,
+						"h": 360
+					},
+					"frame": {
+						"x": 1,
+						"y": 562,
+						"w": 487,
+						"h": 360
+					}
+				},
+				{
+					"filename": "Dead/__Warrior_Dead_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 404,
+						"w": 503,
+						"h": 358
+					},
+					"frame": {
+						"x": 490,
+						"y": 562,
+						"w": 503,
+						"h": 358
+					}
+				},
+				{
+					"filename": "Dead/__BigGuy_Dead_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 212,
+						"y": 146,
+						"w": 544,
+						"h": 536
+					},
+					"frame": {
+						"x": 1,
+						"y": 1500,
+						"w": 544,
+						"h": 536
+					}
+				},
+				{
+					"filename": "Attack/__Bandit02_Attack_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 300,
+						"y": 222,
+						"w": 445,
+						"h": 528
+					},
+					"frame": {
+						"x": 547,
+						"y": 1500,
+						"w": 445,
+						"h": 528
+					}
+				},
+				{
+					"filename": "Run/__BigGuy_Run_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 307,
+						"y": 116,
+						"w": 529,
+						"h": 567
+					},
+					"frame": {
+						"x": 574,
+						"y": 931,
+						"w": 529,
+						"h": 567
+					}
+				},
+				{
+					"filename": "Dead/__Warrior_Dead_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 404,
+						"w": 503,
+						"h": 358
+					},
+					"frame": {
+						"x": 995,
+						"y": 562,
+						"w": 503,
+						"h": 358
+					}
+				},
+				{
+					"filename": "Attack/__Crow_Attack_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 365,
+						"y": 368,
+						"w": 225,
+						"h": 197
+					},
+					"frame": {
+						"x": 1500,
+						"y": 562,
+						"w": 225,
+						"h": 197
+					}
+				},
+				{
+					"filename": "Attack/__Bandit02_Attack_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 296,
+						"y": 219,
+						"w": 448,
+						"h": 527
+					},
+					"frame": {
+						"x": 994,
+						"y": 1500,
+						"w": 448,
+						"h": 527
+					}
+				},
+				{
+					"filename": "Run/__BigGuy_Run_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 319,
+						"y": 114,
+						"w": 480,
+						"h": 567
+					},
+					"frame": {
+						"x": 1105,
+						"y": 931,
+						"w": 480,
+						"h": 567
+					}
+				},
+				{
+					"filename": "Dead/__Bandit02_Dead_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 73,
+						"y": 319,
+						"w": 459,
+						"h": 377
+					},
+					"frame": {
+						"x": 1587,
+						"y": 931,
+						"w": 459,
+						"h": 377
+					}
+				},
+				{
+					"filename": "Attack/__Gorilla_Attack_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 218,
+						"y": 130,
+						"w": 458,
+						"h": 557
+					},
+					"frame": {
+						"x": 1587,
+						"y": 1310,
+						"w": 458,
+						"h": 557
+					}
+				},
+				{
+					"filename": "Idle/__Crow_Idle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 322,
+						"y": 379,
+						"w": 249,
+						"h": 178
+					},
+					"frame": {
+						"x": 1444,
+						"y": 1869,
+						"w": 249,
+						"h": 178
+					}
+				},
+				{
+					"filename": "Attack/__Crow_Attack_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 317,
+						"y": 384,
+						"w": 254,
+						"h": 171
+					},
+					"frame": {
+						"x": 1695,
+						"y": 1869,
+						"w": 254,
+						"h": 171
+					}
+				}
+			]
+		},
+		{
+			"image": "Warrior-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 2046
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Attack/__BigGuy_Attack_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 127,
+						"w": 574,
+						"h": 560
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 574,
+						"h": 560
+					}
+				},
+				{
+					"filename": "Dead/__BigGuy_Dead_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 127,
+						"w": 574,
+						"h": 560
+					},
+					"frame": {
+						"x": 577,
+						"y": 1,
+						"w": 574,
+						"h": 560
+					}
+				},
+				{
+					"filename": "Hurt/__BigGuy_Hurt_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 127,
+						"w": 574,
+						"h": 560
+					},
+					"frame": {
+						"x": 1153,
+						"y": 1,
+						"w": 574,
+						"h": 560
+					}
+				},
+				{
+					"filename": "Attack/__Bandit02_Attack_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 294,
+						"y": 219,
+						"w": 315,
+						"h": 462
+					},
+					"frame": {
+						"x": 1729,
+						"y": 1,
+						"w": 315,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Attack/__Bandit01_Attack_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 290,
+						"y": 218,
+						"w": 311,
+						"h": 463
+					},
+					"frame": {
+						"x": 1729,
+						"y": 465,
+						"w": 311,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Hurt/__Gorilla_Hurt_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 120,
+						"w": 394,
+						"h": 567
+					},
+					"frame": {
+						"x": 1,
+						"y": 930,
+						"w": 394,
+						"h": 567
+					}
+				},
+				{
+					"filename": "Dead/__Warrior_Dead_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 409,
+						"w": 498,
+						"h": 356
+					},
+					"frame": {
+						"x": 1,
+						"y": 563,
+						"w": 498,
+						"h": 356
+					}
+				},
+				{
+					"filename": "Attack02/__Warrior_AttackALT_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 252,
+						"y": 199,
+						"w": 503,
+						"h": 491
+					},
+					"frame": {
+						"x": 1,
+						"y": 1499,
+						"w": 503,
+						"h": 491
+					}
+				},
+				{
+					"filename": "Hurt/__Gorilla_Hurt_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 120,
+						"w": 394,
+						"h": 567
+					},
+					"frame": {
+						"x": 397,
+						"y": 930,
+						"w": 394,
+						"h": 567
+					}
+				},
+				{
+					"filename": "Dead/__Bandit01_Dead_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 73,
+						"y": 297,
+						"w": 454,
+						"h": 331
+					},
+					"frame": {
+						"x": 501,
+						"y": 563,
+						"w": 454,
+						"h": 331
+					}
+				},
+				{
+					"filename": "Attack01/__Warrior_Attack01_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 201,
+						"w": 424,
+						"h": 484
+					},
+					"frame": {
+						"x": 506,
+						"y": 1499,
+						"w": 424,
+						"h": 484
+					}
+				},
+				{
+					"filename": "Hurt/__Gorilla_Hurt_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 120,
+						"w": 394,
+						"h": 567
+					},
+					"frame": {
+						"x": 793,
+						"y": 930,
+						"w": 394,
+						"h": 567
+					}
+				},
+				{
+					"filename": "Run/__BigGuy_Run_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 307,
+						"y": 116,
+						"w": 529,
+						"h": 565
+					},
+					"frame": {
+						"x": 1189,
+						"y": 563,
+						"w": 529,
+						"h": 565
+					}
+				},
+				{
+					"filename": "Run/__Bandit01_Run_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 302,
+						"y": 216,
+						"w": 327,
+						"h": 462
+					},
+					"frame": {
+						"x": 1720,
+						"y": 930,
+						"w": 327,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Attack/__BigGuy_Attack_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 243,
+						"y": 126,
+						"w": 520,
+						"h": 561
+					},
+					"frame": {
+						"x": 1189,
+						"y": 1130,
+						"w": 520,
+						"h": 561
+					}
+				},
+				{
+					"filename": "Dead/__Bandit01_Dead_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 205,
+						"y": 203,
+						"w": 335,
+						"h": 455
+					},
+					"frame": {
+						"x": 1711,
+						"y": 1394,
+						"w": 335,
+						"h": 455
+					}
+				},
+				{
+					"filename": "Attack/__Crow_Attack_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 317,
+						"y": 384,
+						"w": 254,
+						"h": 171
+					},
+					"frame": {
+						"x": 932,
+						"y": 1499,
+						"w": 254,
+						"h": 171
+					}
+				},
+				{
+					"filename": "Dead/__Crow_Dead_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 317,
+						"y": 384,
+						"w": 254,
+						"h": 171
+					},
+					"frame": {
+						"x": 932,
+						"y": 1672,
+						"w": 254,
+						"h": 171
+					}
+				},
+				{
+					"filename": "Fly/__Crow_Fly_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 325,
+						"y": 362,
+						"w": 246,
+						"h": 194
+					},
+					"frame": {
+						"x": 932,
+						"y": 1851,
+						"w": 246,
+						"h": 194
+					}
+				},
+				{
+					"filename": "Fly/__Crow_Fly_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 324,
+						"y": 414,
+						"w": 246,
+						"h": 194
+					},
+					"frame": {
+						"x": 1180,
+						"y": 1851,
+						"w": 246,
+						"h": 194
+					}
+				},
+				{
+					"filename": "Idle/__Crow_Idle_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 289,
+						"y": 416,
+						"w": 281,
+						"h": 140
+					},
+					"frame": {
+						"x": 1428,
+						"y": 1693,
+						"w": 281,
+						"h": 140
+					}
+				},
+				{
+					"filename": "Idle/__Crow_Idle_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 289,
+						"y": 412,
+						"w": 281,
+						"h": 139
+					},
+					"frame": {
+						"x": 1428,
+						"y": 1835,
+						"w": 281,
+						"h": 139
+					}
+				},
+				{
+					"filename": "Fly/__Crow_Fly_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 324,
+						"y": 413,
+						"w": 246,
+						"h": 194
+					},
+					"frame": {
+						"x": 1711,
+						"y": 1851,
+						"w": 246,
+						"h": 194
+					}
+				}
+			]
+		},
+		{
+			"image": "Warrior-4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2045,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Hurt/__BigGuy_Hurt_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 127,
+						"w": 574,
+						"h": 560
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 574,
+						"h": 560
+					}
+				},
+				{
+					"filename": "Idle/__BigGuy_Idle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 127,
+						"w": 574,
+						"h": 560
+					},
+					"frame": {
+						"x": 577,
+						"y": 1,
+						"w": 574,
+						"h": 560
+					}
+				},
+				{
+					"filename": "Hurt/__BigGuy_Hurt_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 259,
+						"y": 128,
+						"w": 574,
+						"h": 559
+					},
+					"frame": {
+						"x": 1153,
+						"y": 1,
+						"w": 574,
+						"h": 559
+					}
+				},
+				{
+					"filename": "Attack/__Bandit02_Attack_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 290,
+						"y": 218,
+						"w": 311,
+						"h": 463
+					},
+					"frame": {
+						"x": 1729,
+						"y": 1,
+						"w": 311,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Attack/__Bandit01_Attack_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 294,
+						"y": 219,
+						"w": 303,
+						"h": 462
+					},
+					"frame": {
+						"x": 1729,
+						"y": 466,
+						"w": 303,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Idle/__BigGuy_Idle_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 128,
+						"w": 574,
+						"h": 559
+					},
+					"frame": {
+						"x": 1153,
+						"y": 562,
+						"w": 574,
+						"h": 559
+					}
+				},
+				{
+					"filename": "Fly/__Crow_Fly_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 292,
+						"y": 415,
+						"w": 278,
+						"h": 139
+					},
+					"frame": {
+						"x": 1729,
+						"y": 930,
+						"w": 278,
+						"h": 139
+					}
+				},
+				{
+					"filename": "Hurt/__Crow_Hurt_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 293,
+						"y": 408,
+						"w": 277,
+						"h": 148
+					},
+					"frame": {
+						"x": 1729,
+						"y": 1071,
+						"w": 277,
+						"h": 148
+					}
+				},
+				{
+					"filename": "Run/__BigGuy_Run_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 118,
+						"w": 567,
+						"h": 566
+					},
+					"frame": {
+						"x": 1,
+						"y": 1221,
+						"w": 567,
+						"h": 566
+					}
+				},
+				{
+					"filename": "Hurt/__Wolf_Hurt_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 244,
+						"y": 422,
+						"w": 407,
+						"h": 258
+					},
+					"frame": {
+						"x": 1,
+						"y": 1789,
+						"w": 407,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Hurt/__Wolf_Hurt_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 244,
+						"y": 422,
+						"w": 407,
+						"h": 258
+					},
+					"frame": {
+						"x": 410,
+						"y": 1789,
+						"w": 407,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Run/__BigGuy_Run_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 118,
+						"w": 567,
+						"h": 566
+					},
+					"frame": {
+						"x": 570,
+						"y": 1221,
+						"w": 567,
+						"h": 566
+					}
+				},
+				{
+					"filename": "Hurt/__Wolf_Hurt_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 244,
+						"y": 422,
+						"w": 407,
+						"h": 258
+					},
+					"frame": {
+						"x": 819,
+						"y": 1789,
+						"w": 407,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Attack/__Gorilla_Attack_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 246,
+						"y": 121,
+						"w": 488,
+						"h": 566
+					},
+					"frame": {
+						"x": 1139,
+						"y": 1221,
+						"w": 488,
+						"h": 566
+					}
+				},
+				{
+					"filename": "Run/__Wolf_Run_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 244,
+						"y": 421,
+						"w": 406,
+						"h": 258
+					},
+					"frame": {
+						"x": 1228,
+						"y": 1789,
+						"w": 406,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Hurt/__Gorilla_Hurt_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 255,
+						"y": 121,
+						"w": 394,
+						"h": 566
+					},
+					"frame": {
+						"x": 1629,
+						"y": 1221,
+						"w": 394,
+						"h": 566
+					}
+				},
+				{
+					"filename": "Dead/__Wolf_Dead_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 244,
+						"y": 469,
+						"w": 408,
+						"h": 217
+					},
+					"frame": {
+						"x": 1636,
+						"y": 1789,
+						"w": 408,
+						"h": 217
+					}
+				},
+				{
+					"filename": "Run/__BigGuy_Run_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 116,
+						"w": 571,
+						"h": 565
+					},
+					"frame": {
+						"x": 1,
+						"y": 563,
+						"w": 571,
+						"h": 565
+					}
+				},
+				{
+					"filename": "Attack02/__Warrior_AttackALT_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 201,
+						"w": 418,
+						"h": 480
+					},
+					"frame": {
+						"x": 574,
+						"y": 563,
+						"w": 418,
+						"h": 480
+					}
+				},
+				{
+					"filename": "Dead/__Crow_Dead_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 305,
+						"y": 557,
+						"w": 273,
+						"h": 125
+					},
+					"frame": {
+						"x": 574,
+						"y": 1045,
+						"w": 273,
+						"h": 125
+					}
+				}
+			]
+		},
+		{
+			"image": "Warrior-5.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2042,
+				"h": 1986
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Hurt/__BigGuy_Hurt_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 256,
+						"y": 130,
+						"w": 574,
+						"h": 557
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 574,
+						"h": 557
+					}
+				},
+				{
+					"filename": "Idle/__BigGuy_Idle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 127,
+						"w": 573,
+						"h": 560
+					},
+					"frame": {
+						"x": 577,
+						"y": 1,
+						"w": 573,
+						"h": 560
+					}
+				},
+				{
+					"filename": "Idle/__BigGuy_Idle_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 128,
+						"w": 573,
+						"h": 559
+					},
+					"frame": {
+						"x": 1,
+						"y": 560,
+						"w": 573,
+						"h": 559
+					}
+				},
+				{
+					"filename": "Hurt/__BigGuy_Hurt_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 255,
+						"y": 130,
+						"w": 573,
+						"h": 557
+					},
+					"frame": {
+						"x": 576,
+						"y": 563,
+						"w": 573,
+						"h": 557
+					}
+				},
+				{
+					"filename": "Idle/__BigGuy_Idle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 128,
+						"w": 571,
+						"h": 559
+					},
+					"frame": {
+						"x": 1,
+						"y": 1121,
+						"w": 571,
+						"h": 559
+					}
+				},
+				{
+					"filename": "Idle/__BigGuy_Idle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 129,
+						"w": 571,
+						"h": 558
+					},
+					"frame": {
+						"x": 1151,
+						"y": 563,
+						"w": 571,
+						"h": 558
+					}
+				},
+				{
+					"filename": "Hurt/__BigGuy_Hurt_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 133,
+						"w": 572,
+						"h": 554
+					},
+					"frame": {
+						"x": 574,
+						"y": 1122,
+						"w": 572,
+						"h": 554
+					}
+				},
+				{
+					"filename": "Hurt/__BigGuy_Hurt_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 133,
+						"w": 572,
+						"h": 554
+					},
+					"frame": {
+						"x": 1152,
+						"y": 1,
+						"w": 572,
+						"h": 554
+					}
+				},
+				{
+					"filename": "Hurt/__BigGuy_Hurt_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 133,
+						"w": 572,
+						"h": 554
+					},
+					"frame": {
+						"x": 1148,
+						"y": 1123,
+						"w": 572,
+						"h": 554
+					}
+				},
+				{
+					"filename": "Dead/__Wolf_Dead_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 244,
+						"y": 469,
+						"w": 408,
+						"h": 217
+					},
+					"frame": {
+						"x": 574,
+						"y": 1678,
+						"w": 408,
+						"h": 217
+					}
+				},
+				{
+					"filename": "Attack/__Crow_Attack_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 291,
+						"y": 414,
+						"w": 277,
+						"h": 144
+					},
+					"frame": {
+						"x": 1,
+						"y": 1682,
+						"w": 277,
+						"h": 144
+					}
+				},
+				{
+					"filename": "Hurt/__Crow_Hurt_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 317,
+						"y": 411,
+						"w": 246,
+						"h": 219
+					},
+					"frame": {
+						"x": 280,
+						"y": 1682,
+						"w": 246,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Idle/__Crow_Idle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 302,
+						"y": 407,
+						"w": 269,
+						"h": 153
+					},
+					"frame": {
+						"x": 1,
+						"y": 1828,
+						"w": 269,
+						"h": 153
+					}
+				},
+				{
+					"filename": "Jump/__Bandit01_FallDown_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 285,
+						"y": 196,
+						"w": 319,
+						"h": 467
+					},
+					"frame": {
+						"x": 1722,
+						"y": 1123,
+						"w": 319,
+						"h": 467
+					}
+				},
+				{
+					"filename": "Dead/__Crow_Dead_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 317,
+						"y": 411,
+						"w": 246,
+						"h": 210
+					},
+					"frame": {
+						"x": 1722,
+						"y": 1592,
+						"w": 246,
+						"h": 210
+					}
+				},
+				{
+					"filename": "Hurt/__Crow_Hurt_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 317,
+						"y": 411,
+						"w": 246,
+						"h": 210
+					},
+					"frame": {
+						"x": 1724,
+						"y": 557,
+						"w": 246,
+						"h": 210
+					}
+				},
+				{
+					"filename": "Hurt/__Crow_Hurt_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 317,
+						"y": 411,
+						"w": 246,
+						"h": 210
+					},
+					"frame": {
+						"x": 1724,
+						"y": 769,
+						"w": 246,
+						"h": 210
+					}
+				},
+				{
+					"filename": "Fly/__Crow_Fly_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 294,
+						"y": 416,
+						"w": 276,
+						"h": 139
+					},
+					"frame": {
+						"x": 1724,
+						"y": 981,
+						"w": 276,
+						"h": 139
+					}
+				},
+				{
+					"filename": "Idle/__Crow_Idle_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 324,
+						"y": 406,
+						"w": 246,
+						"h": 194
+					},
+					"frame": {
+						"x": 1726,
+						"y": 1,
+						"w": 246,
+						"h": 194
+					}
+				},
+				{
+					"filename": "Idle/__Crow_Idle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 325,
+						"y": 369,
+						"w": 246,
+						"h": 193
+					},
+					"frame": {
+						"x": 1726,
+						"y": 197,
+						"w": 246,
+						"h": 193
+					}
+				},
+				{
+					"filename": "Dead/__Crow_Dead_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 291,
+						"y": 414,
+						"w": 277,
+						"h": 144
+					},
+					"frame": {
+						"x": 1726,
+						"y": 392,
+						"w": 277,
+						"h": 144
+					}
+				},
+				{
+					"filename": "Hurt/__Crow_Hurt_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 291,
+						"y": 414,
+						"w": 277,
+						"h": 144
+					},
+					"frame": {
+						"x": 984,
+						"y": 1679,
+						"w": 277,
+						"h": 144
+					}
+				},
+				{
+					"filename": "Attack/__Crow_Attack_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 316,
+						"y": 421,
+						"w": 272,
+						"h": 141
+					},
+					"frame": {
+						"x": 1263,
+						"y": 1679,
+						"w": 272,
+						"h": 141
+					}
+				},
+				{
+					"filename": "Hurt/__Crow_Hurt_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 299,
+						"y": 413,
+						"w": 268,
+						"h": 151
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1804,
+						"w": 268,
+						"h": 151
+					}
+				},
+				{
+					"filename": "Fly/__Crow_Fly_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 393,
+						"w": 263,
+						"h": 163
+					},
+					"frame": {
+						"x": 1263,
+						"y": 1822,
+						"w": 263,
+						"h": 163
+					}
+				},
+				{
+					"filename": "Idle/__Crow_Idle_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 408,
+						"w": 262,
+						"h": 151
+					},
+					"frame": {
+						"x": 984,
+						"y": 1825,
+						"w": 262,
+						"h": 151
+					}
+				}
+			]
+		},
+		{
+			"image": "Warrior-6.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 2024
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Idle/__BigGuy_Idle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 129,
+						"w": 570,
+						"h": 558
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 570,
+						"h": 558
+					}
+				},
+				{
+					"filename": "Idle/__BigGuy_Idle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 129,
+						"w": 570,
+						"h": 558
+					},
+					"frame": {
+						"x": 573,
+						"y": 1,
+						"w": 570,
+						"h": 558
+					}
+				},
+				{
+					"filename": "Attack/__Gorilla_Attack_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 227,
+						"y": 127,
+						"w": 556,
+						"h": 560
+					},
+					"frame": {
+						"x": 1145,
+						"y": 1,
+						"w": 556,
+						"h": 560
+					}
+				},
+				{
+					"filename": "Jump/__Bandit02_JumpUp_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 233,
+						"y": 198,
+						"w": 342,
+						"h": 464
+					},
+					"frame": {
+						"x": 1703,
+						"y": 1,
+						"w": 342,
+						"h": 464
+					}
+				},
+				{
+					"filename": "Idle/__Bandit02_Idle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 218,
+						"w": 342,
+						"h": 463
+					},
+					"frame": {
+						"x": 1703,
+						"y": 467,
+						"w": 342,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Hurt/__Gorilla_Hurt_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 256,
+						"y": 122,
+						"w": 394,
+						"h": 565
+					},
+					"frame": {
+						"x": 1,
+						"y": 932,
+						"w": 394,
+						"h": 565
+					}
+				},
+				{
+					"filename": "Run/__Warrior_Run_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 252,
+						"y": 194,
+						"w": 373,
+						"h": 484
+					},
+					"frame": {
+						"x": 1,
+						"y": 1499,
+						"w": 373,
+						"h": 484
+					}
+				},
+				{
+					"filename": "Run/__Warrior_Run_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 253,
+						"y": 197,
+						"w": 373,
+						"h": 484
+					},
+					"frame": {
+						"x": 376,
+						"y": 1499,
+						"w": 373,
+						"h": 484
+					}
+				},
+				{
+					"filename": "Dead/__Gorilla_Dead_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 125,
+						"w": 392,
+						"h": 562
+					},
+					"frame": {
+						"x": 751,
+						"y": 561,
+						"w": 392,
+						"h": 562
+					}
+				},
+				{
+					"filename": "Attack02/__Warrior_AttackALT_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 245,
+						"y": 202,
+						"w": 352,
+						"h": 479
+					},
+					"frame": {
+						"x": 397,
+						"y": 561,
+						"w": 352,
+						"h": 479
+					}
+				},
+				{
+					"filename": "Run/__Wolf_Run_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 446,
+						"w": 391,
+						"h": 242
+					},
+					"frame": {
+						"x": 1,
+						"y": 561,
+						"w": 391,
+						"h": 242
+					}
+				},
+				{
+					"filename": "Run/__Bandit01_Run_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 300,
+						"y": 212,
+						"w": 328,
+						"h": 451
+					},
+					"frame": {
+						"x": 397,
+						"y": 1042,
+						"w": 328,
+						"h": 451
+					}
+				},
+				{
+					"filename": "Run/__Gorilla_Run_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 193,
+						"y": 118,
+						"w": 551,
+						"h": 564
+					},
+					"frame": {
+						"x": 1145,
+						"y": 563,
+						"w": 551,
+						"h": 564
+					}
+				},
+				{
+					"filename": "Hurt/__Gorilla_Hurt_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 125,
+						"w": 392,
+						"h": 562
+					},
+					"frame": {
+						"x": 751,
+						"y": 1125,
+						"w": 392,
+						"h": 562
+					}
+				},
+				{
+					"filename": "Idle/__Princess_Idle_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 219,
+						"w": 349,
+						"h": 462
+					},
+					"frame": {
+						"x": 1698,
+						"y": 932,
+						"w": 349,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Attack/__Gorilla_Attack_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 237,
+						"y": 124,
+						"w": 541,
+						"h": 563
+					},
+					"frame": {
+						"x": 1145,
+						"y": 1129,
+						"w": 541,
+						"h": 563
+					}
+				},
+				{
+					"filename": "Run/__Bandit02_Run_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 236,
+						"y": 212,
+						"w": 356,
+						"h": 454
+					},
+					"frame": {
+						"x": 1688,
+						"y": 1396,
+						"w": 356,
+						"h": 454
+					}
+				},
+				{
+					"filename": "Attack/__Wolf_Attack_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 272,
+						"y": 439,
+						"w": 386,
+						"h": 242
+					},
+					"frame": {
+						"x": 751,
+						"y": 1689,
+						"w": 386,
+						"h": 242
+					}
+				},
+				{
+					"filename": "Fly/__Crow_Fly_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 317,
+						"y": 384,
+						"w": 254,
+						"h": 171
+					},
+					"frame": {
+						"x": 1139,
+						"y": 1852,
+						"w": 254,
+						"h": 171
+					}
+				},
+				{
+					"filename": "Idle/__Crow_Idle_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 310,
+						"y": 411,
+						"w": 260,
+						"h": 155
+					},
+					"frame": {
+						"x": 1139,
+						"y": 1694,
+						"w": 260,
+						"h": 155
+					}
+				},
+				{
+					"filename": "Hurt/__Crow_Hurt_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 317,
+						"y": 384,
+						"w": 254,
+						"h": 171
+					},
+					"frame": {
+						"x": 1395,
+						"y": 1852,
+						"w": 254,
+						"h": 171
+					}
+				},
+				{
+					"filename": "Hurt/__Crow_Hurt_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 317,
+						"y": 384,
+						"w": 254,
+						"h": 171
+					},
+					"frame": {
+						"x": 1651,
+						"y": 1852,
+						"w": 254,
+						"h": 171
+					}
+				}
+			]
+		},
+		{
+			"image": "Warrior-7.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2047,
+				"h": 2042
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Attack/__Gorilla_Attack_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 253,
+						"y": 123,
+						"w": 512,
+						"h": 564
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 512,
+						"h": 564
+					}
+				},
+				{
+					"filename": "Idle/__Gorilla_Idle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 124,
+						"w": 398,
+						"h": 563
+					},
+					"frame": {
+						"x": 1,
+						"y": 567,
+						"w": 398,
+						"h": 563
+					}
+				},
+				{
+					"filename": "Idle/__Gorilla_Idle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 124,
+						"w": 398,
+						"h": 563
+					},
+					"frame": {
+						"x": 1,
+						"y": 1132,
+						"w": 398,
+						"h": 563
+					}
+				},
+				{
+					"filename": "Dead/__Bandit01_Dead_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 427,
+						"w": 464,
+						"h": 302
+					},
+					"frame": {
+						"x": 1,
+						"y": 1697,
+						"w": 464,
+						"h": 302
+					}
+				},
+				{
+					"filename": "Idle/__Gorilla_Idle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 124,
+						"w": 396,
+						"h": 563
+					},
+					"frame": {
+						"x": 401,
+						"y": 567,
+						"w": 396,
+						"h": 563
+					}
+				},
+				{
+					"filename": "Idle/__Gorilla_Idle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 124,
+						"w": 396,
+						"h": 563
+					},
+					"frame": {
+						"x": 401,
+						"y": 1132,
+						"w": 396,
+						"h": 563
+					}
+				},
+				{
+					"filename": "Idle/__Gorilla_Idle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 124,
+						"w": 394,
+						"h": 563
+					},
+					"frame": {
+						"x": 515,
+						"y": 1,
+						"w": 394,
+						"h": 563
+					}
+				},
+				{
+					"filename": "Dead/__Bandit01_Dead_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 427,
+						"w": 464,
+						"h": 302
+					},
+					"frame": {
+						"x": 467,
+						"y": 1697,
+						"w": 464,
+						"h": 302
+					}
+				},
+				{
+					"filename": "Hurt/__Gorilla_Hurt_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 259,
+						"y": 124,
+						"w": 393,
+						"h": 563
+					},
+					"frame": {
+						"x": 799,
+						"y": 566,
+						"w": 393,
+						"h": 563
+					}
+				},
+				{
+					"filename": "Run/__Gorilla_Run_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 312,
+						"y": 118,
+						"w": 345,
+						"h": 563
+					},
+					"frame": {
+						"x": 911,
+						"y": 1,
+						"w": 345,
+						"h": 563
+					}
+				},
+				{
+					"filename": "Run/__Gorilla_Run_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 238,
+						"y": 121,
+						"w": 463,
+						"h": 562
+					},
+					"frame": {
+						"x": 799,
+						"y": 1131,
+						"w": 463,
+						"h": 562
+					}
+				},
+				{
+					"filename": "Idle/__Gorilla_Idle_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 125,
+						"w": 395,
+						"h": 562
+					},
+					"frame": {
+						"x": 1194,
+						"y": 566,
+						"w": 395,
+						"h": 562
+					}
+				},
+				{
+					"filename": "Idle/__Gorilla_Idle_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 125,
+						"w": 393,
+						"h": 562
+					},
+					"frame": {
+						"x": 1258,
+						"y": 1,
+						"w": 393,
+						"h": 562
+					}
+				},
+				{
+					"filename": "Idle/__Gorilla_Idle_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 260,
+						"y": 126,
+						"w": 393,
+						"h": 561
+					},
+					"frame": {
+						"x": 1653,
+						"y": 1,
+						"w": 393,
+						"h": 561
+					}
+				},
+				{
+					"filename": "Hurt/__Gorilla_Hurt_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 125,
+						"w": 392,
+						"h": 562
+					},
+					"frame": {
+						"x": 1653,
+						"y": 564,
+						"w": 392,
+						"h": 562
+					}
+				},
+				{
+					"filename": "Attack/__Bandit02_Attack_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 292,
+						"y": 218,
+						"w": 451,
+						"h": 463
+					},
+					"frame": {
+						"x": 1591,
+						"y": 1128,
+						"w": 451,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Hurt/__Bandit01_Hurt_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 289,
+						"y": 217,
+						"w": 325,
+						"h": 463
+					},
+					"frame": {
+						"x": 1264,
+						"y": 1130,
+						"w": 325,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Dead/__Bandit02_Dead_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 205,
+						"y": 203,
+						"w": 368,
+						"h": 448
+					},
+					"frame": {
+						"x": 1591,
+						"y": 1593,
+						"w": 368,
+						"h": 448
+					}
+				},
+				{
+					"filename": "Idle/__Crow_Idle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 317,
+						"y": 384,
+						"w": 254,
+						"h": 171
+					},
+					"frame": {
+						"x": 1264,
+						"y": 1595,
+						"w": 254,
+						"h": 171
+					}
+				},
+				{
+					"filename": "Attack/__Wolf_Attack_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 411,
+						"w": 407,
+						"h": 269
+					},
+					"frame": {
+						"x": 933,
+						"y": 1768,
+						"w": 407,
+						"h": 269
+					}
+				},
+				{
+					"filename": "Dead/__Crow_Dead_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 338,
+						"y": 444,
+						"w": 240,
+						"h": 168
+					},
+					"frame": {
+						"x": 1342,
+						"y": 1768,
+						"w": 240,
+						"h": 168
+					}
+				}
+			]
+		},
+		{
+			"image": "Warrior-8.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2047,
+				"h": 1994
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Idle/__Gorilla_Idle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 125,
+						"w": 392,
+						"h": 562
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 392,
+						"h": 562
+					}
+				},
+				{
+					"filename": "Run/__Gorilla_Run_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 300,
+						"y": 121,
+						"w": 361,
+						"h": 562
+					},
+					"frame": {
+						"x": 1,
+						"y": 565,
+						"w": 361,
+						"h": 562
+					}
+				},
+				{
+					"filename": "Attack/__Gorilla_Attack_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 252,
+						"y": 126,
+						"w": 409,
+						"h": 561
+					},
+					"frame": {
+						"x": 1,
+						"y": 1129,
+						"w": 409,
+						"h": 561
+					}
+				},
+				{
+					"filename": "Idle/__Gorilla_Idle_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 260,
+						"y": 126,
+						"w": 392,
+						"h": 561
+					},
+					"frame": {
+						"x": 364,
+						"y": 565,
+						"w": 392,
+						"h": 561
+					}
+				},
+				{
+					"filename": "Idle/__Gorilla_Idle_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 260,
+						"y": 126,
+						"w": 392,
+						"h": 561
+					},
+					"frame": {
+						"x": 395,
+						"y": 1,
+						"w": 392,
+						"h": 561
+					}
+				},
+				{
+					"filename": "Dead/__Bandit02_Dead_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 431,
+						"w": 489,
+						"h": 301
+					},
+					"frame": {
+						"x": 1,
+						"y": 1692,
+						"w": 489,
+						"h": 301
+					}
+				},
+				{
+					"filename": "Idle/__Gorilla_Idle_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 126,
+						"w": 392,
+						"h": 561
+					},
+					"frame": {
+						"x": 412,
+						"y": 1128,
+						"w": 392,
+						"h": 561
+					}
+				},
+				{
+					"filename": "Attack/__BigGuy_Attack_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 253,
+						"y": 127,
+						"w": 478,
+						"h": 560
+					},
+					"frame": {
+						"x": 758,
+						"y": 564,
+						"w": 478,
+						"h": 560
+					}
+				},
+				{
+					"filename": "Run/__Gorilla_Run_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 238,
+						"y": 121,
+						"w": 463,
+						"h": 560
+					},
+					"frame": {
+						"x": 789,
+						"y": 1,
+						"w": 463,
+						"h": 560
+					}
+				},
+				{
+					"filename": "Dead/__Bandit01_Dead_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 431,
+						"w": 469,
+						"h": 301
+					},
+					"frame": {
+						"x": 492,
+						"y": 1691,
+						"w": 469,
+						"h": 301
+					}
+				},
+				{
+					"filename": "Run/__Gorilla_Run_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 124,
+						"w": 386,
+						"h": 560
+					},
+					"frame": {
+						"x": 806,
+						"y": 1126,
+						"w": 386,
+						"h": 560
+					}
+				},
+				{
+					"filename": "Dead/__Wolf_Dead_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 244,
+						"y": 420,
+						"w": 407,
+						"h": 261
+					},
+					"frame": {
+						"x": 963,
+						"y": 1688,
+						"w": 407,
+						"h": 261
+					}
+				},
+				{
+					"filename": "Run/__Gorilla_Run_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 124,
+						"w": 386,
+						"h": 560
+					},
+					"frame": {
+						"x": 1194,
+						"y": 1126,
+						"w": 386,
+						"h": 560
+					}
+				},
+				{
+					"filename": "Run/__Gorilla_Run_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 300,
+						"y": 121,
+						"w": 361,
+						"h": 560
+					},
+					"frame": {
+						"x": 1238,
+						"y": 563,
+						"w": 361,
+						"h": 560
+					}
+				},
+				{
+					"filename": "Attack/__Gorilla_Attack_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 128,
+						"w": 434,
+						"h": 559
+					},
+					"frame": {
+						"x": 1254,
+						"y": 1,
+						"w": 434,
+						"h": 559
+					}
+				},
+				{
+					"filename": "Attack01/__Warrior_Attack01_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 240,
+						"y": 202,
+						"w": 445,
+						"h": 479
+					},
+					"frame": {
+						"x": 1601,
+						"y": 562,
+						"w": 445,
+						"h": 479
+					}
+				},
+				{
+					"filename": "Jump/__Bandit02_FallDown_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 227,
+						"y": 196,
+						"w": 355,
+						"h": 467
+					},
+					"frame": {
+						"x": 1690,
+						"y": 1,
+						"w": 355,
+						"h": 467
+					}
+				},
+				{
+					"filename": "Attack01/__Warrior_Attack01_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 238,
+						"y": 203,
+						"w": 443,
+						"h": 478
+					},
+					"frame": {
+						"x": 1601,
+						"y": 1043,
+						"w": 443,
+						"h": 478
+					}
+				},
+				{
+					"filename": "Attack/__Bandit01_Attack_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 298,
+						"y": 220,
+						"w": 458,
+						"h": 461
+					},
+					"frame": {
+						"x": 1582,
+						"y": 1523,
+						"w": 458,
+						"h": 461
+					}
+				}
+			]
+		},
+		{
+			"image": "Warrior-9.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1945,
+				"h": 2036
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Attack/__BigGuy_Attack_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 246,
+						"y": 130,
+						"w": 473,
+						"h": 557
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 473,
+						"h": 557
+					}
+				},
+				{
+					"filename": "Attack02/__Warrior_AttackALT_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 200,
+						"w": 501,
+						"h": 481
+					},
+					"frame": {
+						"x": 476,
+						"y": 1,
+						"w": 501,
+						"h": 481
+					}
+				},
+				{
+					"filename": "Attack/__Bandit02_Attack_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 298,
+						"y": 220,
+						"w": 490,
+						"h": 461
+					},
+					"frame": {
+						"x": 979,
+						"y": 1,
+						"w": 490,
+						"h": 461
+					}
+				},
+				{
+					"filename": "Attack01/__Warrior_Attack01_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 200,
+						"w": 373,
+						"h": 549
+					},
+					"frame": {
+						"x": 1,
+						"y": 560,
+						"w": 373,
+						"h": 549
+					}
+				},
+				{
+					"filename": "Attack/__Bandit01_Attack_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 296,
+						"y": 219,
+						"w": 449,
+						"h": 468
+					},
+					"frame": {
+						"x": 1471,
+						"y": 1,
+						"w": 449,
+						"h": 468
+					}
+				},
+				{
+					"filename": "Run/__Warrior_Run_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 252,
+						"y": 194,
+						"w": 373,
+						"h": 483
+					},
+					"frame": {
+						"x": 1,
+						"y": 1111,
+						"w": 373,
+						"h": 483
+					}
+				},
+				{
+					"filename": "Dead/__Warrior_Dead_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 220,
+						"w": 458,
+						"h": 439
+					},
+					"frame": {
+						"x": 1,
+						"y": 1596,
+						"w": 458,
+						"h": 439
+					}
+				},
+				{
+					"filename": "Run/__Warrior_Run_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 252,
+						"y": 194,
+						"w": 373,
+						"h": 482
+					},
+					"frame": {
+						"x": 376,
+						"y": 560,
+						"w": 373,
+						"h": 482
+					}
+				},
+				{
+					"filename": "Run/__Warrior_Run_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 252,
+						"y": 194,
+						"w": 373,
+						"h": 482
+					},
+					"frame": {
+						"x": 376,
+						"y": 1044,
+						"w": 373,
+						"h": 482
+					}
+				},
+				{
+					"filename": "Jump/__Warrior_FallDown_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 231,
+						"y": 181,
+						"w": 372,
+						"h": 482
+					},
+					"frame": {
+						"x": 461,
+						"y": 1528,
+						"w": 372,
+						"h": 482
+					}
+				},
+				{
+					"filename": "Jump/__Warrior_JumpUp_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 243,
+						"y": 182,
+						"w": 376,
+						"h": 480
+					},
+					"frame": {
+						"x": 751,
+						"y": 484,
+						"w": 376,
+						"h": 480
+					}
+				},
+				{
+					"filename": "Attack02/__Warrior_AttackALT_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 240,
+						"y": 202,
+						"w": 441,
+						"h": 479
+					},
+					"frame": {
+						"x": 751,
+						"y": 966,
+						"w": 441,
+						"h": 479
+					}
+				},
+				{
+					"filename": "Attack01/__Warrior_Attack01_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 245,
+						"y": 202,
+						"w": 440,
+						"h": 479
+					},
+					"frame": {
+						"x": 835,
+						"y": 1447,
+						"w": 440,
+						"h": 479
+					}
+				},
+				{
+					"filename": "Attack/__Bandit01_Attack_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 300,
+						"y": 222,
+						"w": 439,
+						"h": 469
+					},
+					"frame": {
+						"x": 1129,
+						"y": 471,
+						"w": 439,
+						"h": 469
+					}
+				},
+				{
+					"filename": "Hurt/__Warrior_Hurt_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 241,
+						"y": 202,
+						"w": 374,
+						"h": 479
+					},
+					"frame": {
+						"x": 1194,
+						"y": 942,
+						"w": 374,
+						"h": 479
+					}
+				},
+				{
+					"filename": "Idle/__Warrior_Idle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 241,
+						"y": 202,
+						"w": 374,
+						"h": 479
+					},
+					"frame": {
+						"x": 1570,
+						"y": 471,
+						"w": 374,
+						"h": 479
+					}
+				},
+				{
+					"filename": "Idle/__Warrior_Idle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 240,
+						"y": 202,
+						"w": 374,
+						"h": 479
+					},
+					"frame": {
+						"x": 1570,
+						"y": 952,
+						"w": 374,
+						"h": 479
+					}
+				},
+				{
+					"filename": "Idle/__Warrior_Idle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 243,
+						"y": 202,
+						"w": 373,
+						"h": 479
+					},
+					"frame": {
+						"x": 1277,
+						"y": 1433,
+						"w": 373,
+						"h": 479
+					}
+				}
+			]
+		},
+		{
+			"image": "Warrior-10.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1944,
+				"h": 1941
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Idle/__Warrior_Idle_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 245,
+						"y": 202,
+						"w": 372,
+						"h": 479
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 372,
+						"h": 479
+					}
+				},
+				{
+					"filename": "Dead/__Warrior_Dead_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 245,
+						"y": 202,
+						"w": 371,
+						"h": 479
+					},
+					"frame": {
+						"x": 1,
+						"y": 482,
+						"w": 371,
+						"h": 479
+					}
+				},
+				{
+					"filename": "Hurt/__Warrior_Hurt_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 245,
+						"y": 202,
+						"w": 371,
+						"h": 479
+					},
+					"frame": {
+						"x": 1,
+						"y": 963,
+						"w": 371,
+						"h": 479
+					}
+				},
+				{
+					"filename": "Hurt/__Warrior_Hurt_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 245,
+						"y": 202,
+						"w": 371,
+						"h": 479
+					},
+					"frame": {
+						"x": 1,
+						"y": 1444,
+						"w": 371,
+						"h": 479
+					}
+				},
+				{
+					"filename": "Idle/__Warrior_Idle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 245,
+						"y": 202,
+						"w": 371,
+						"h": 479
+					},
+					"frame": {
+						"x": 374,
+						"y": 482,
+						"w": 371,
+						"h": 479
+					}
+				},
+				{
+					"filename": "Idle/__Warrior_Idle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 203,
+						"w": 375,
+						"h": 478
+					},
+					"frame": {
+						"x": 375,
+						"y": 1,
+						"w": 375,
+						"h": 478
+					}
+				},
+				{
+					"filename": "Idle/__Warrior_Idle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 241,
+						"y": 203,
+						"w": 374,
+						"h": 478
+					},
+					"frame": {
+						"x": 374,
+						"y": 963,
+						"w": 374,
+						"h": 478
+					}
+				},
+				{
+					"filename": "Idle/__Warrior_Idle_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 242,
+						"y": 203,
+						"w": 373,
+						"h": 478
+					},
+					"frame": {
+						"x": 747,
+						"y": 481,
+						"w": 373,
+						"h": 478
+					}
+				},
+				{
+					"filename": "Idle/__Warrior_Idle_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 243,
+						"y": 203,
+						"w": 373,
+						"h": 478
+					},
+					"frame": {
+						"x": 752,
+						"y": 1,
+						"w": 373,
+						"h": 478
+					}
+				},
+				{
+					"filename": "Idle/__Warrior_Idle_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 244,
+						"y": 203,
+						"w": 372,
+						"h": 478
+					},
+					"frame": {
+						"x": 374,
+						"y": 1443,
+						"w": 372,
+						"h": 478
+					}
+				},
+				{
+					"filename": "Idle/__Warrior_Idle_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 245,
+						"y": 203,
+						"w": 372,
+						"h": 478
+					},
+					"frame": {
+						"x": 748,
+						"y": 1443,
+						"w": 372,
+						"h": 478
+					}
+				},
+				{
+					"filename": "Idle/__Warrior_Idle_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 245,
+						"y": 203,
+						"w": 371,
+						"h": 478
+					},
+					"frame": {
+						"x": 750,
+						"y": 961,
+						"w": 371,
+						"h": 478
+					}
+				},
+				{
+					"filename": "Attack02/__Warrior_AttackALT_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 238,
+						"y": 203,
+						"w": 363,
+						"h": 478
+					},
+					"frame": {
+						"x": 1122,
+						"y": 481,
+						"w": 363,
+						"h": 478
+					}
+				},
+				{
+					"filename": "Hurt/__Warrior_Hurt_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 203,
+						"w": 377,
+						"h": 477
+					},
+					"frame": {
+						"x": 1127,
+						"y": 1,
+						"w": 377,
+						"h": 477
+					}
+				},
+				{
+					"filename": "Attack01/__Warrior_Attack01_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 231,
+						"y": 204,
+						"w": 437,
+						"h": 476
+					},
+					"frame": {
+						"x": 1506,
+						"y": 1,
+						"w": 437,
+						"h": 476
+					}
+				},
+				{
+					"filename": "Attack/__Bandit02_Attack_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 296,
+						"y": 219,
+						"w": 433,
+						"h": 462
+					},
+					"frame": {
+						"x": 1506,
+						"y": 479,
+						"w": 433,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Hurt/__Warrior_Hurt_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 204,
+						"w": 378,
+						"h": 476
+					},
+					"frame": {
+						"x": 1122,
+						"y": 1441,
+						"w": 378,
+						"h": 476
+					}
+				},
+				{
+					"filename": "Run/__Warrior_Run_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 253,
+						"y": 192,
+						"w": 371,
+						"h": 476
+					},
+					"frame": {
+						"x": 1123,
+						"y": 961,
+						"w": 371,
+						"h": 476
+					}
+				},
+				{
+					"filename": "Attack02/__Warrior_AttackALT_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 231,
+						"y": 204,
+						"w": 368,
+						"h": 476
+					},
+					"frame": {
+						"x": 1496,
+						"y": 943,
+						"w": 368,
+						"h": 476
+					}
+				},
+				{
+					"filename": "Dead/__Wolf_Dead_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 244,
+						"y": 419,
+						"w": 407,
+						"h": 260
+					},
+					"frame": {
+						"x": 1502,
+						"y": 1421,
+						"w": 407,
+						"h": 260
+					}
+				},
+				{
+					"filename": "Attack/__Wolf_Attack_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 244,
+						"y": 423,
+						"w": 407,
+						"h": 257
+					},
+					"frame": {
+						"x": 1502,
+						"y": 1683,
+						"w": 407,
+						"h": 257
+					}
+				}
+			]
+		},
+		{
+			"image": "Warrior-11.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1878,
+				"h": 1912
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Hurt/__Warrior_Hurt_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 224,
+						"y": 206,
+						"w": 382,
+						"h": 474
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 382,
+						"h": 474
+					}
+				},
+				{
+					"filename": "Hurt/__Warrior_Hurt_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 224,
+						"y": 206,
+						"w": 382,
+						"h": 474
+					},
+					"frame": {
+						"x": 1,
+						"y": 477,
+						"w": 382,
+						"h": 474
+					}
+				},
+				{
+					"filename": "Hurt/__Warrior_Hurt_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 224,
+						"y": 206,
+						"w": 382,
+						"h": 474
+					},
+					"frame": {
+						"x": 1,
+						"y": 953,
+						"w": 382,
+						"h": 474
+					}
+				},
+				{
+					"filename": "Dead/__Warrior_Dead_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 199,
+						"y": 195,
+						"w": 390,
+						"h": 472
+					},
+					"frame": {
+						"x": 1,
+						"y": 1429,
+						"w": 390,
+						"h": 472
+					}
+				},
+				{
+					"filename": "Run/__Warrior_Run_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 253,
+						"y": 192,
+						"w": 371,
+						"h": 471
+					},
+					"frame": {
+						"x": 385,
+						"y": 1,
+						"w": 371,
+						"h": 471
+					}
+				},
+				{
+					"filename": "Dead/__Warrior_Dead_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 134,
+						"y": 186,
+						"w": 406,
+						"h": 468
+					},
+					"frame": {
+						"x": 385,
+						"y": 474,
+						"w": 406,
+						"h": 468
+					}
+				},
+				{
+					"filename": "Dead/__Bandit01_Dead_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 260,
+						"y": 201,
+						"w": 329,
+						"h": 466
+					},
+					"frame": {
+						"x": 758,
+						"y": 1,
+						"w": 329,
+						"h": 466
+					}
+				},
+				{
+					"filename": "Run/__Princess_Run_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 253,
+						"y": 217,
+						"w": 348,
+						"h": 465
+					},
+					"frame": {
+						"x": 385,
+						"y": 944,
+						"w": 348,
+						"h": 465
+					}
+				},
+				{
+					"filename": "Run/__Princess_Run_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 214,
+						"w": 348,
+						"h": 464
+					},
+					"frame": {
+						"x": 393,
+						"y": 1411,
+						"w": 348,
+						"h": 464
+					}
+				},
+				{
+					"filename": "Run/__Princess_Run_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 253,
+						"y": 217,
+						"w": 348,
+						"h": 464
+					},
+					"frame": {
+						"x": 735,
+						"y": 944,
+						"w": 348,
+						"h": 464
+					}
+				},
+				{
+					"filename": "Run/__Princess_Run_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 214,
+						"w": 348,
+						"h": 464
+					},
+					"frame": {
+						"x": 793,
+						"y": 469,
+						"w": 348,
+						"h": 464
+					}
+				},
+				{
+					"filename": "Run/__Princess_Run_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 214,
+						"w": 348,
+						"h": 464
+					},
+					"frame": {
+						"x": 1089,
+						"y": 1,
+						"w": 348,
+						"h": 464
+					}
+				},
+				{
+					"filename": "Jump/__Bandit01_JumpUp_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 294,
+						"y": 198,
+						"w": 328,
+						"h": 464
+					},
+					"frame": {
+						"x": 743,
+						"y": 1410,
+						"w": 328,
+						"h": 464
+					}
+				},
+				{
+					"filename": "Attack/__Bandit01_Attack_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 292,
+						"y": 218,
+						"w": 398,
+						"h": 463
+					},
+					"frame": {
+						"x": 1073,
+						"y": 1410,
+						"w": 398,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Run/__Princess_Run_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 247,
+						"y": 211,
+						"w": 350,
+						"h": 463
+					},
+					"frame": {
+						"x": 1085,
+						"y": 935,
+						"w": 350,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Run/__Princess_Run_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 247,
+						"y": 211,
+						"w": 350,
+						"h": 463
+					},
+					"frame": {
+						"x": 1143,
+						"y": 467,
+						"w": 350,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Run/__Princess_Run_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 214,
+						"w": 348,
+						"h": 463
+					},
+					"frame": {
+						"x": 1439,
+						"y": 1,
+						"w": 348,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Hurt/__Bandit02_Hurt_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 231,
+						"y": 218,
+						"w": 341,
+						"h": 463
+					},
+					"frame": {
+						"x": 1437,
+						"y": 932,
+						"w": 341,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Idle/__Bandit02_Idle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 218,
+						"w": 341,
+						"h": 463
+					},
+					"frame": {
+						"x": 1495,
+						"y": 466,
+						"w": 341,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Dead/__Wolf_Dead_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 249,
+						"y": 425,
+						"w": 404,
+						"h": 257
+					},
+					"frame": {
+						"x": 1473,
+						"y": 1397,
+						"w": 404,
+						"h": 257
+					}
+				},
+				{
+					"filename": "Hurt/__Wolf_Hurt_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 425,
+						"w": 404,
+						"h": 255
+					},
+					"frame": {
+						"x": 1473,
+						"y": 1656,
+						"w": 404,
+						"h": 255
+					}
+				}
+			]
+		},
+		{
+			"image": "Warrior-12.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 1990
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Idle/__Bandit02_Idle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 231,
+						"y": 218,
+						"w": 341,
+						"h": 463
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 341,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Idle/__Bandit02_Idle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 231,
+						"y": 218,
+						"w": 341,
+						"h": 463
+					},
+					"frame": {
+						"x": 1,
+						"y": 466,
+						"w": 341,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Hurt/__Bandit02_Hurt_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 230,
+						"y": 217,
+						"w": 340,
+						"h": 463
+					},
+					"frame": {
+						"x": 1,
+						"y": 931,
+						"w": 340,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Hurt/__Bandit02_Hurt_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 228,
+						"y": 217,
+						"w": 340,
+						"h": 463
+					},
+					"frame": {
+						"x": 1,
+						"y": 1396,
+						"w": 340,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Hurt/__Bandit02_Hurt_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 228,
+						"y": 217,
+						"w": 340,
+						"h": 463
+					},
+					"frame": {
+						"x": 343,
+						"y": 931,
+						"w": 340,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Hurt/__Bandit02_Hurt_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 228,
+						"y": 217,
+						"w": 340,
+						"h": 463
+					},
+					"frame": {
+						"x": 343,
+						"y": 1396,
+						"w": 340,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Idle/__Bandit02_Idle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 218,
+						"w": 340,
+						"h": 463
+					},
+					"frame": {
+						"x": 344,
+						"y": 1,
+						"w": 340,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Hurt/__Bandit01_Hurt_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 282,
+						"y": 217,
+						"w": 326,
+						"h": 463
+					},
+					"frame": {
+						"x": 344,
+						"y": 466,
+						"w": 326,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Hurt/__Bandit01_Hurt_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 282,
+						"y": 217,
+						"w": 326,
+						"h": 463
+					},
+					"frame": {
+						"x": 672,
+						"y": 466,
+						"w": 326,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Hurt/__Bandit01_Hurt_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 282,
+						"y": 217,
+						"w": 326,
+						"h": 463
+					},
+					"frame": {
+						"x": 686,
+						"y": 1,
+						"w": 326,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Run/__Wolf_Run_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 426,
+						"w": 404,
+						"h": 255
+					},
+					"frame": {
+						"x": 1014,
+						"y": 1,
+						"w": 404,
+						"h": 255
+					}
+				},
+				{
+					"filename": "Hurt/__Wolf_Hurt_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 249,
+						"y": 426,
+						"w": 404,
+						"h": 254
+					},
+					"frame": {
+						"x": 1420,
+						"y": 1,
+						"w": 404,
+						"h": 254
+					}
+				},
+				{
+					"filename": "Attack/__Wolf_Attack_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 249,
+						"y": 427,
+						"w": 404,
+						"h": 253
+					},
+					"frame": {
+						"x": 1420,
+						"y": 257,
+						"w": 404,
+						"h": 253
+					}
+				},
+				{
+					"filename": "Idle/__Wolf_Idle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 428,
+						"w": 403,
+						"h": 253
+					},
+					"frame": {
+						"x": 1014,
+						"y": 258,
+						"w": 403,
+						"h": 253
+					}
+				},
+				{
+					"filename": "Idle/__Wolf_Idle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 428,
+						"w": 403,
+						"h": 253
+					},
+					"frame": {
+						"x": 1419,
+						"y": 512,
+						"w": 403,
+						"h": 253
+					}
+				},
+				{
+					"filename": "Idle/__Wolf_Idle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 429,
+						"w": 403,
+						"h": 252
+					},
+					"frame": {
+						"x": 1000,
+						"y": 513,
+						"w": 403,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Hurt/__Wolf_Hurt_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 429,
+						"w": 403,
+						"h": 251
+					},
+					"frame": {
+						"x": 1000,
+						"y": 767,
+						"w": 403,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Idle/__Wolf_Idle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 429,
+						"w": 402,
+						"h": 252
+					},
+					"frame": {
+						"x": 1405,
+						"y": 767,
+						"w": 402,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Idle/__Wolf_Idle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 252,
+						"y": 430,
+						"w": 402,
+						"h": 251
+					},
+					"frame": {
+						"x": 685,
+						"y": 1020,
+						"w": 402,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Idle/__Bandit01_Idle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 293,
+						"y": 218,
+						"w": 326,
+						"h": 463
+					},
+					"frame": {
+						"x": 685,
+						"y": 1273,
+						"w": 326,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Idle/__Wolf_Idle_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 252,
+						"y": 430,
+						"w": 402,
+						"h": 251
+					},
+					"frame": {
+						"x": 685,
+						"y": 1738,
+						"w": 402,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Idle/__Bandit01_Idle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 292,
+						"y": 218,
+						"w": 326,
+						"h": 463
+					},
+					"frame": {
+						"x": 1013,
+						"y": 1273,
+						"w": 326,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Idle/__Wolf_Idle_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 253,
+						"y": 431,
+						"w": 401,
+						"h": 250
+					},
+					"frame": {
+						"x": 1089,
+						"y": 1021,
+						"w": 401,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run/__Wolf_Run_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 432,
+						"w": 400,
+						"h": 250
+					},
+					"frame": {
+						"x": 1089,
+						"y": 1738,
+						"w": 400,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle/__Bandit01_Idle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 291,
+						"y": 218,
+						"w": 326,
+						"h": 463
+					},
+					"frame": {
+						"x": 1341,
+						"y": 1273,
+						"w": 326,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Run/__Wolf_Run_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 257,
+						"y": 434,
+						"w": 399,
+						"h": 250
+					},
+					"frame": {
+						"x": 1492,
+						"y": 1021,
+						"w": 399,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Attack/__Bandit01_Attack_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 296,
+						"y": 219,
+						"w": 378,
+						"h": 462
+					},
+					"frame": {
+						"x": 1669,
+						"y": 1273,
+						"w": 378,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Attack/__Wolf_Attack_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 429,
+						"w": 396,
+						"h": 250
+					},
+					"frame": {
+						"x": 1491,
+						"y": 1738,
+						"w": 396,
+						"h": 250
+					}
+				}
+			]
+		},
+		{
+			"image": "Warrior-13.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1781,
+				"h": 1858
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Run/__Bandit02_Run_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 238,
+						"y": 220,
+						"w": 353,
+						"h": 462
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 353,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Idle/__Princess_Idle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 244,
+						"y": 219,
+						"w": 352,
+						"h": 462
+					},
+					"frame": {
+						"x": 1,
+						"y": 465,
+						"w": 352,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Idle/__Princess_Idle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 244,
+						"y": 219,
+						"w": 352,
+						"h": 462
+					},
+					"frame": {
+						"x": 356,
+						"y": 1,
+						"w": 352,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Run/__Bandit02_Run_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 237,
+						"y": 216,
+						"w": 352,
+						"h": 462
+					},
+					"frame": {
+						"x": 1,
+						"y": 929,
+						"w": 352,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Idle/__Princess_Idle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 245,
+						"y": 219,
+						"w": 351,
+						"h": 462
+					},
+					"frame": {
+						"x": 355,
+						"y": 465,
+						"w": 351,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Idle/__Princess_Idle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 247,
+						"y": 219,
+						"w": 350,
+						"h": 462
+					},
+					"frame": {
+						"x": 710,
+						"y": 1,
+						"w": 350,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Idle/__Princess_Idle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 246,
+						"y": 219,
+						"w": 350,
+						"h": 462
+					},
+					"frame": {
+						"x": 1,
+						"y": 1393,
+						"w": 350,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Idle/__Princess_Idle_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 246,
+						"y": 219,
+						"w": 350,
+						"h": 462
+					},
+					"frame": {
+						"x": 355,
+						"y": 929,
+						"w": 350,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Idle/__Princess_Idle_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 247,
+						"y": 219,
+						"w": 350,
+						"h": 462
+					},
+					"frame": {
+						"x": 708,
+						"y": 465,
+						"w": 350,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Idle/__Princess_Idle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 249,
+						"y": 219,
+						"w": 347,
+						"h": 462
+					},
+					"frame": {
+						"x": 1062,
+						"y": 1,
+						"w": 347,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Idle/__Princess_Idle_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 249,
+						"y": 219,
+						"w": 347,
+						"h": 462
+					},
+					"frame": {
+						"x": 353,
+						"y": 1393,
+						"w": 347,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Dead/__Bandit02_Dead_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 219,
+						"w": 342,
+						"h": 462
+					},
+					"frame": {
+						"x": 707,
+						"y": 929,
+						"w": 342,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Hurt/__Bandit02_Hurt_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 219,
+						"w": 342,
+						"h": 462
+					},
+					"frame": {
+						"x": 1060,
+						"y": 465,
+						"w": 342,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Hurt/__Bandit02_Hurt_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 219,
+						"w": 342,
+						"h": 462
+					},
+					"frame": {
+						"x": 1411,
+						"y": 1,
+						"w": 342,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Idle/__Bandit01_Idle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 291,
+						"y": 218,
+						"w": 326,
+						"h": 463
+					},
+					"frame": {
+						"x": 702,
+						"y": 1393,
+						"w": 326,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Idle/__Bandit01_Idle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 292,
+						"y": 218,
+						"w": 326,
+						"h": 463
+					},
+					"frame": {
+						"x": 1051,
+						"y": 929,
+						"w": 326,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Hurt/__Bandit01_Hurt_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 292,
+						"y": 218,
+						"w": 325,
+						"h": 463
+					},
+					"frame": {
+						"x": 1404,
+						"y": 465,
+						"w": 325,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Hurt/__Bandit01_Hurt_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 217,
+						"w": 324,
+						"h": 463
+					},
+					"frame": {
+						"x": 1030,
+						"y": 1394,
+						"w": 324,
+						"h": 463
+					}
+				},
+				{
+					"filename": "Dead/__Bandit01_Dead_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 134,
+						"y": 251,
+						"w": 396,
+						"h": 401
+					},
+					"frame": {
+						"x": 1379,
+						"y": 930,
+						"w": 396,
+						"h": 401
+					}
+				},
+				{
+					"filename": "Run/__Wolf_Run_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 432,
+						"w": 401,
+						"h": 244
+					},
+					"frame": {
+						"x": 1379,
+						"y": 1333,
+						"w": 401,
+						"h": 244
+					}
+				},
+				{
+					"filename": "Idle/__Wolf_Idle_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 432,
+						"w": 400,
+						"h": 249
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1579,
+						"w": 400,
+						"h": 249
+					}
+				}
+			]
+		},
+		{
+			"image": "Warrior-14.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2044,
+				"h": 1892
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Idle/__Bandit02_Idle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 219,
+						"w": 342,
+						"h": 462
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 342,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Idle/__Bandit02_Idle_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 219,
+						"w": 342,
+						"h": 462
+					},
+					"frame": {
+						"x": 1,
+						"y": 465,
+						"w": 342,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Idle/__Bandit02_Idle_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 219,
+						"w": 342,
+						"h": 462
+					},
+					"frame": {
+						"x": 1,
+						"y": 929,
+						"w": 342,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Idle/__Bandit02_Idle_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 219,
+						"w": 342,
+						"h": 462
+					},
+					"frame": {
+						"x": 1,
+						"y": 1393,
+						"w": 342,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Attack/__Wolf_Attack_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 432,
+						"w": 400,
+						"h": 248
+					},
+					"frame": {
+						"x": 345,
+						"y": 1,
+						"w": 400,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Attack/__Wolf_Attack_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 432,
+						"w": 400,
+						"h": 248
+					},
+					"frame": {
+						"x": 747,
+						"y": 1,
+						"w": 400,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Dead/__Wolf_Dead_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 432,
+						"w": 400,
+						"h": 248
+					},
+					"frame": {
+						"x": 1149,
+						"y": 1,
+						"w": 400,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Hurt/__Wolf_Hurt_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 432,
+						"w": 400,
+						"h": 248
+					},
+					"frame": {
+						"x": 1551,
+						"y": 1,
+						"w": 400,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Idle/__Bandit02_Idle_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 219,
+						"w": 341,
+						"h": 462
+					},
+					"frame": {
+						"x": 345,
+						"y": 251,
+						"w": 341,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Run/__Bandit01_Run_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 303,
+						"y": 220,
+						"w": 328,
+						"h": 462
+					},
+					"frame": {
+						"x": 345,
+						"y": 715,
+						"w": 328,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Dead/__Bandit01_Dead_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 294,
+						"y": 219,
+						"w": 325,
+						"h": 462
+					},
+					"frame": {
+						"x": 345,
+						"y": 1179,
+						"w": 325,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Hurt/__Wolf_Hurt_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 432,
+						"w": 400,
+						"h": 248
+					},
+					"frame": {
+						"x": 345,
+						"y": 1643,
+						"w": 400,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Hurt/__Bandit01_Hurt_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 294,
+						"y": 219,
+						"w": 325,
+						"h": 462
+					},
+					"frame": {
+						"x": 672,
+						"y": 1179,
+						"w": 325,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Idle/__Wolf_Idle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 432,
+						"w": 400,
+						"h": 248
+					},
+					"frame": {
+						"x": 747,
+						"y": 1643,
+						"w": 400,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Hurt/__Bandit01_Hurt_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 294,
+						"y": 219,
+						"w": 325,
+						"h": 462
+					},
+					"frame": {
+						"x": 675,
+						"y": 715,
+						"w": 325,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Idle/__Bandit01_Idle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 294,
+						"y": 219,
+						"w": 325,
+						"h": 462
+					},
+					"frame": {
+						"x": 999,
+						"y": 1179,
+						"w": 325,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Idle/__Wolf_Idle_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 432,
+						"w": 400,
+						"h": 248
+					},
+					"frame": {
+						"x": 1149,
+						"y": 1643,
+						"w": 400,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Idle/__Bandit01_Idle_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 293,
+						"y": 219,
+						"w": 325,
+						"h": 462
+					},
+					"frame": {
+						"x": 688,
+						"y": 251,
+						"w": 325,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Idle/__Bandit01_Idle_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 293,
+						"y": 219,
+						"w": 325,
+						"h": 462
+					},
+					"frame": {
+						"x": 1002,
+						"y": 715,
+						"w": 325,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Idle/__Bandit01_Idle_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 294,
+						"y": 219,
+						"w": 325,
+						"h": 462
+					},
+					"frame": {
+						"x": 1326,
+						"y": 1179,
+						"w": 325,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Idle/__Wolf_Idle_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 432,
+						"w": 400,
+						"h": 248
+					},
+					"frame": {
+						"x": 1551,
+						"y": 1643,
+						"w": 400,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Idle/__Bandit01_Idle_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 294,
+						"y": 219,
+						"w": 325,
+						"h": 462
+					},
+					"frame": {
+						"x": 1015,
+						"y": 251,
+						"w": 325,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Run/__Bandit02_Run_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 238,
+						"y": 220,
+						"w": 353,
+						"h": 461
+					},
+					"frame": {
+						"x": 1329,
+						"y": 715,
+						"w": 353,
+						"h": 461
+					}
+				},
+				{
+					"filename": "Run/__Bandit02_Run_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 237,
+						"y": 216,
+						"w": 352,
+						"h": 461
+					},
+					"frame": {
+						"x": 1342,
+						"y": 251,
+						"w": 352,
+						"h": 461
+					}
+				},
+				{
+					"filename": "Idle/__Princess_Idle_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 249,
+						"y": 220,
+						"w": 347,
+						"h": 461
+					},
+					"frame": {
+						"x": 1696,
+						"y": 251,
+						"w": 347,
+						"h": 461
+					}
+				},
+				{
+					"filename": "Run/__Bandit02_Run_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 237,
+						"y": 216,
+						"w": 352,
+						"h": 460
+					},
+					"frame": {
+						"x": 1653,
+						"y": 1178,
+						"w": 352,
+						"h": 460
+					}
+				},
+				{
+					"filename": "Run/__Bandit02_Run_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 236,
+						"y": 212,
+						"w": 350,
+						"h": 456
+					},
+					"frame": {
+						"x": 1684,
+						"y": 714,
+						"w": 350,
+						"h": 456
+					}
+				}
+			]
+		},
+		{
+			"image": "Warrior-15.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1996,
+				"h": 1175
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Idle/__Princess_Idle_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 249,
+						"y": 220,
+						"w": 347,
+						"h": 461
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 347,
+						"h": 461
+					}
+				},
+				{
+					"filename": "Idle/__Bandit02_Idle_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 220,
+						"w": 342,
+						"h": 461
+					},
+					"frame": {
+						"x": 1,
+						"y": 464,
+						"w": 342,
+						"h": 461
+					}
+				},
+				{
+					"filename": "Run/__Wolf_Run_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 269,
+						"y": 440,
+						"w": 395,
+						"h": 246
+					},
+					"frame": {
+						"x": 1,
+						"y": 927,
+						"w": 395,
+						"h": 246
+					}
+				},
+				{
+					"filename": "Idle/__Bandit02_Idle_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 220,
+						"w": 342,
+						"h": 461
+					},
+					"frame": {
+						"x": 345,
+						"y": 464,
+						"w": 342,
+						"h": 461
+					}
+				},
+				{
+					"filename": "Run/__Bandit01_Run_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 303,
+						"y": 220,
+						"w": 328,
+						"h": 461
+					},
+					"frame": {
+						"x": 350,
+						"y": 1,
+						"w": 328,
+						"h": 461
+					}
+				},
+				{
+					"filename": "Run/__Bandit01_Run_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 302,
+						"y": 216,
+						"w": 327,
+						"h": 461
+					},
+					"frame": {
+						"x": 680,
+						"y": 1,
+						"w": 327,
+						"h": 461
+					}
+				},
+				{
+					"filename": "Attack/__Wolf_Attack_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 435,
+						"w": 395,
+						"h": 245
+					},
+					"frame": {
+						"x": 398,
+						"y": 927,
+						"w": 395,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Idle/__Bandit01_Idle_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 294,
+						"y": 220,
+						"w": 325,
+						"h": 461
+					},
+					"frame": {
+						"x": 689,
+						"y": 464,
+						"w": 325,
+						"h": 461
+					}
+				},
+				{
+					"filename": "Idle/__Bandit01_Idle_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 294,
+						"y": 220,
+						"w": 325,
+						"h": 461
+					},
+					"frame": {
+						"x": 1009,
+						"y": 1,
+						"w": 325,
+						"h": 461
+					}
+				},
+				{
+					"filename": "Dead/__Wolf_Dead_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 252,
+						"y": 447,
+						"w": 400,
+						"h": 234
+					},
+					"frame": {
+						"x": 795,
+						"y": 927,
+						"w": 400,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run/__Bandit02_Run_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 237,
+						"y": 216,
+						"w": 352,
+						"h": 460
+					},
+					"frame": {
+						"x": 1016,
+						"y": 464,
+						"w": 352,
+						"h": 460
+					}
+				},
+				{
+					"filename": "Idle/__Wolf_Idle_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 432,
+						"w": 400,
+						"h": 248
+					},
+					"frame": {
+						"x": 1197,
+						"y": 926,
+						"w": 400,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Run/__Bandit01_Run_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 302,
+						"y": 216,
+						"w": 327,
+						"h": 460
+					},
+					"frame": {
+						"x": 1336,
+						"y": 1,
+						"w": 327,
+						"h": 460
+					}
+				},
+				{
+					"filename": "Run/__Bandit01_Run_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 302,
+						"y": 216,
+						"w": 327,
+						"h": 460
+					},
+					"frame": {
+						"x": 1370,
+						"y": 463,
+						"w": 327,
+						"h": 460
+					}
+				},
+				{
+					"filename": "Run/__Wolf_Run_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 437,
+						"w": 396,
+						"h": 249
+					},
+					"frame": {
+						"x": 1599,
+						"y": 925,
+						"w": 396,
+						"h": 249
+					}
+				},
+				{
+					"filename": "Run/__Bandit01_Run_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 835
+					},
+					"spriteSourceSize": {
+						"x": 300,
+						"y": 212,
+						"w": 328,
+						"h": 456
+					},
+					"frame": {
+						"x": 1665,
+						"y": 1,
+						"w": 328,
+						"h": 456
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:21771573f2560256a6a3804552d260a1:e1f3d364ade590843e72d34b9618ed58:d785413fbc58b047fd8658fabfd941ef$"
+	}
+}
